@@ -1,2 +1,10 @@
 this is text file
-hello guys
+hello guys 
+work bench 
+organization 
+devlopers
+automation developers
+ci/cd devlopers
+pull request
+git merge conflicts
+git branches
